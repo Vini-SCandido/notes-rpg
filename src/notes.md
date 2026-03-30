@@ -18,12 +18,18 @@ A feiticeira se interessa por **ervas** e vende elixires **duvidosos** e é a fe
 
 Sr. Gnomo conversa com o velho sobre o parasita do capitão, *mysterious*, inimigos?
 
-Na taverna, à noite vemos um cara armadurado, contando histórias de guerra, até altas horas.
+Na taverna, à noite vemos um cara armadurado, contando histórias de guerra, até altas horas. Estaleiro da lenha, descobrir o que há lá. Ele diz que devemos ficar calados. 
 
-## Lista de troca da Feiteiceira
+*"Calma, calma, não criemos pânico"*
+
+Muitos rumores apontando para o pântano, mas parece que a missão de Estaleira da Lanha parece bem importante. O herói de guerra nos dá ração para a viagem (10 dias) e recompensa de 60 peças de prata pelas informações.
+
+Passaremos no pântano passando pela montanha, que é um caminho frequentado pelos comerciantes. Depois seguiremos para Estaleiro da lenha.
+
+### Lista de troca da Feiteiceira
 ![trocas da feiticeira](./images/trocas-feiticeira.png)
 
-## Porto Bandeija
+### Porto Bandeija
 ![porto bandeira](./images/porto-bandeira.png)
 
 ### Rumores
